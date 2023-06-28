@@ -42,6 +42,7 @@ try:
         "GEEK":30,
         "AYANEO 2S":30,
         "ONEXPLAYER Mini":30,
+        "ROG Ally RC71L_RC71L":30,
         "NEXT":35,
         "ONEXPLAYER Mini Pro":40,
         "AOKZOE A1 AR07":40,
@@ -50,6 +51,7 @@ try:
         "G1618-04":45,     #GPD WIN4
     }
     TDP_LIMIT_CONFIG_CPU={
+        "AMD Ryzen Z1 Extreme": 30,
         "AMD Ryzen 7 7735HS with Radeon Graphics":45,
         "AMD Ryzen 7 7735U with Radeon Graphics":40,
         "AMD Ryzen 5 5560U with Radeon Graphics":18,
